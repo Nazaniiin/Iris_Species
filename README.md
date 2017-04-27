@@ -2,8 +2,8 @@
 
 **Note** This project is mainly done on Kaggle. I have just created this repository to have a copy of it on my GirHub as well.
 
-[My project on Kaggle](https://www.kaggle.com/nazaniiin/d/uciml/iris/what-are-the-iris-species/)
-[The dataset origin](http://archive.ics.uci.edu/ml/datasets/Iris)
+- [My project on Kaggle](https://www.kaggle.com/nazaniiin/d/uciml/iris/what-are-the-iris-species/)
+- [The dataset origin](http://archive.ics.uci.edu/ml/datasets/Iris)
 
 In this project, I work with the 'Iris' dataset, available from [UCI Machine Learning repository]((http://archive.ics.uci.edu/ml/datasets/Iris)). This dataset contains information about properties that differentiate species of Iris flower. There is information about length and width of its Petals and Sepals.
 
